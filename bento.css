@@ -1,0 +1,39 @@
+body{
+    margin: 0 auto;
+    background-color: #F0F0F0;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row: 2px;
+    height: 800px;
+    width: 900px;
+    border: none;
+    background-color: #F6F6F6;
+    padding: 50px;
+}
+.containerOne{
+    background-color: #F9EEE2;
+    height: 11em;
+    width: 6em;
+    padding: 20px;
+    border-radius: 10px;
+}
+.containerOne p{
+    font-size: 16px;
+    
+    
+}
+#createpost{
+    width: 100px;
+    margin-top: 10px;
+}
+.containerOne span{
+    color: #9275C9;
+}
+.containerTwo{
+    background-color:#6237b3;
+
+}
